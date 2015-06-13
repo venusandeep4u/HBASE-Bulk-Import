@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/hbase-0.94.14.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/Installations/hbase-0.94.14/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="/home/vm4learning/WorkSpace/BigData/HBase-BulkImport/lib/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
